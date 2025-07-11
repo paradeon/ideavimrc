@@ -57,7 +57,7 @@ map <leader>o <Action>(FileStructurePopup)
 map <leader>J Ji <ESC>
 
 " Just makes me nervous
-map H h
+"map H h
 
 " Toggle case and start typing. E.g. `<leader>iget`: `property` -> `getProperty`
 map <leader>i ~hi
